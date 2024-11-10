@@ -1,0 +1,9 @@
+﻿<Window x:Class="Contacts.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:pages="clr-namespace:Contacts.Pages"
+        Title="Main Window" Height="450" Width="800">
+    <Grid>
+        <Frame Name="MainFrame" NavigationUIVisibility="Hidden" />
+    </Grid>
+</Window>
